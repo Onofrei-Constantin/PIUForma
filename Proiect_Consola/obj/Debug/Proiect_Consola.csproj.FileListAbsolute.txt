@@ -1,0 +1,14 @@
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\Proiect_Consola.exe.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\Proiect_Consola.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\Proiect_Consola.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\NivelAccesDate.dll
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\LibrarieModele.dll.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\NivelAccesDate.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\bin\Debug\NivelAccesDate.dll.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\obj\Debug\Proiect_Consola.csprojAssemblyReference.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\obj\Debug\Proiect_Consola.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\obj\Debug\Proiect_Consola.csproj.CopyComplete
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\obj\Debug\Proiect_Consola.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Consola\obj\Debug\Proiect_Consola.pdb

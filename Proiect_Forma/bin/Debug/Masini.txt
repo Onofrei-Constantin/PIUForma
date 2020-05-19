@@ -1,0 +1,3 @@
+1;xvx;vcxvx;cvx;cxvxv;xcvx;vxxcv;0;0
+1;andrei;vieru;bmw m3;2007;10.20.2020;3400;0;0
+1;andrei;vieru;bmw m3;2007;10.04.2020;2500;0;0

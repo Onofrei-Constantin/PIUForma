@@ -1,0 +1,14 @@
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\Proiect_Forma.exe.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\Proiect_Forma.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\Proiect_Forma.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\LibrarieModele.dll
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\NivelAccesDate.dll
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\LibrarieModele.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\LibrarieModele.dll.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\NivelAccesDate.pdb
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\bin\Debug\NivelAccesDate.dll.config
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\obj\Debug\Proiect_Forma.csprojAssemblyReference.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\obj\Debug\Proiect_Forma.csproj.CoreCompileInputs.cache
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\obj\Debug\Proiect_Forma.csproj.CopyComplete
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\obj\Debug\Proiect_Forma.exe
+C:\Users\viper\Documents\GitHub\PIU\Proiect_Forma\obj\Debug\Proiect_Forma.pdb
